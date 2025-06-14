@@ -1,10 +1,4 @@
-# andreibojoiu
-resume website
+# andreibojoiu.com
+Welcome to the repo for my portfolio website "andreibojoiu.com".
 
-// summary
-a place i put myself and my work on the web
-
-// goals:
-- landing page with an about me
-- resume page with detailed info
-- projects page with horizontal scroll between major projects, and further info below
+This project is a work-in-progress with an expected completion date of July 31, 2025.
